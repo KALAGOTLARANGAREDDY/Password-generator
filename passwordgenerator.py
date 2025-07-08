@@ -11,3 +11,4 @@ for password in range(numbers):
         passwords+=random.choice(chars)
     print(passwords)
 print("This is my second password generator program")
+print("Thank you dear user for using the password generator!")
