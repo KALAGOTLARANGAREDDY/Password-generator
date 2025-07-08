@@ -10,3 +10,4 @@ for password in range(numbers):
     for c in range(length):
         passwords+=random.choice(chars)
     print(passwords)
+print("This is my first password generator program")
